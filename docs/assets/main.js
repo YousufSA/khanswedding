@@ -52,10 +52,10 @@ $(window).scroll(function(){
 //
 //$('#loded').vegas({
 //    slides: [
-//        { src: 'assets/img/accommodation-bg.jpg' },
-//        { src: 'assets/img/the-heart-welcome-bg.jpg' },
-//        { src: 'assets/img/the-heart-welcome-bg-2.jpg' },
-//         { src: 'assets/img/the-heart-welcome-bg-3.jpg' }
+//        { src: 'https://yousufsa.github.io/khanswedding/docs/assets/img/accommodation-bg.jpg' },
+//        { src: 'https://yousufsa.github.io/khanswedding/docs/assets/img/the-heart-welcome-bg.jpg' },
+//        { src: 'https://yousufsa.github.io/khanswedding/docs/assets/img/the-heart-welcome-bg-2.jpg' },
+//         { src: 'https://yousufsa.github.io/khanswedding/docs/assets/img/the-heart-welcome-bg-3.jpg' }
 //    ],
 //    animation: [ 'kenburnsUp', 'kenburnsDown', 'kenburnsLeft', 'kenburnsRight' ]
 //});
@@ -105,8 +105,8 @@ $('.the-heart-slider').owlCarousel({
 	autoplayTimeout:4000,
 	animateOut: 'fadeOut',
   	animateIn: 'fadeIn',
-    navText: ["<img src='assets/img/slidernav-left.png' alt='Slider Nav' />",
-      "<img src='assets/img/slidernav-right.png' alt='Slider Nav' />"],
+    navText: ["<img src='https://yousufsa.github.io/khanswedding/docs/assets/img/slidernav-left.png' alt='Slider Nav' />",
+      "<img src='https://yousufsa.github.io/khanswedding/docs/assets/img/slidernav-right.png' alt='Slider Nav' />"],
     navigation: true,
 
 });
