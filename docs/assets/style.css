@@ -83,8 +83,6 @@ body {
 	background-repeat: repeat;
 	background-position: center center;
 	background-size: 100%;
-    max-width: 100%;
-    overflow: hidden;
 }
 
 iframe{
@@ -1434,6 +1432,8 @@ canvas {
 }
 .the-heart-paper-effect-bg {
 	position: relative;
+    max-width: 100%;
+    overflow-x: hidden;
 }
 .the-heart-paper-effect-bg:before ,
 .the-heart-paper-effect-bg:after {
