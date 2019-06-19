@@ -266,7 +266,7 @@ ul.dropdown {
   text-align: center;
   width: 100%;
   overflow: auto;
-  height: 350px;
+  height: 250px;
   top: 0px;
 
 }
@@ -569,7 +569,12 @@ header.the-heart-menu-and-logo-section.sticky-menu .the-heart-main-meun{
   width: 100%;
 }
 .the-heart-intruduction-content-img img {
-  display: none;
+/*  display: none;*/
+    max-height: 250px;
+    width: auto;
+}
+.the-heart-intruduction-content-img,.the-heart-single-introduction:nth-child(even) .the-heart-intruduction-content-img{
+    text-align: center;
 }
 .the-heart-single-introduction:nth-child(2n) .the-heart-intruduction-content-txt {
   text-align: center;

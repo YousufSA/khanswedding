@@ -97,7 +97,7 @@ a,
 a:hover,
 a:focus,
 a:active {
-	color: red;
+	color: #96327D;
 }
 a:focus,
 a:active,
@@ -123,7 +123,7 @@ a:hover,
 a:visited {
 	text-decoration: none;
 	outline: 0;
-	color: #222222;
+	color: #96327D;
 }
 img {
 	border: none;
@@ -148,7 +148,8 @@ h1,h2,h3,h4,h5,h6,a,ul,li{
 	padding: 150px 0;
 }
 .the-heart-introduction-section.section-padding {
-	padding: 150px 0 0 0;
+	padding: 100px 0 0 0;
+    background: url(https://yousufsa.github.io/khanswedding/docs/assets/img/floral-top.png) no-repeat;
 }
 
 .the-heart-memoragble-days-section.section-padding {
@@ -223,7 +224,7 @@ h1,h2,h3,h4,h5,h6,a,ul,li{
 }
 .the-heart-btn.simple-btn:before {
 	position: absolute;
-	content: "\f178";
+	content: "\f232";
 	top: 50%;
 	right: -42px;
 	font-family: 'FontAwesome';
@@ -1317,8 +1318,8 @@ canvas {
 	text-align: right;
 }
 .the-heart-intruduction-content-img img {
-	width: 409px;
-	height: 409px;
+	width: 350px;
+	height: 350px;
 	border-radius: 100%;
 	background-color: #fdfafd;
 	border: 1px dotted #96327D;
@@ -1436,7 +1437,7 @@ canvas {
 .the-heart-paper-effect-bg:after {
 	position: absolute;
 	content: "";
-	top: 0;
+	top: -2px;
 	left: 0;
 	height: 115px;
 	width: 100%;
@@ -1448,7 +1449,7 @@ canvas {
 }
 .the-heart-paper-effect-bg:after {
 	top: inherit;
-	bottom: 0;
+	bottom: -2px;
 	background-image: url(https://yousufsa.github.io/khanswedding/docs/assets/img/paper-effect--bottom.png);
 	background-position: bottom center;
 }
@@ -1783,10 +1784,10 @@ canvas {
 }
 .the-heart-single-gallery::after {
   color: #96327d;
-  content: "+";
+  content: "\f004";
   font-size: 60px;
   font-weight: 100;
-  left: 50%;
+  left: 44%;
   opacity: 0;
   position: absolute;
   top: 50%;
@@ -1794,6 +1795,7 @@ canvas {
   transition: all 0.4s ease 0s;
   width: 10px;
   z-index: 1;
+  font-family: 'FontAwesome';
 }
 .the-heart-single-gallery:hover::after{
 	opacity: 1;
