@@ -232,7 +232,14 @@ ul.dropdown li a {
 .the-heart-single-counter h3 {
   font-size: 0.9em;
 }
-
+.the-heart-paper-effect-bg{         
+    max-width: 100%;
+    overflow-x: hidden;
+}
+.the-heart-gallery-item,.the-heart-gallery-grid{
+    max-width:100%;
+}
+     
  /* dropdown menu*/
 
 ul.dropdown {
@@ -336,7 +343,7 @@ header.the-heart-menu-and-logo-section.sticky-menu .the-heart-main-meun{
   font-size: .838em;
 }
 .the-heart-intruduction-content-txt h3 {
-  font-size: 1.667em;
+  font-size: 2em;
 }
 .the-heart-single-introduction{
   margin-bottom: 50px;

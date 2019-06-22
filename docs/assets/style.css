@@ -1432,8 +1432,6 @@ canvas {
 }
 .the-heart-paper-effect-bg {
 	position: relative;
-    max-width: 100%;
-    overflow-x: hidden;
 }
 .the-heart-paper-effect-bg:before ,
 .the-heart-paper-effect-bg:after {
@@ -1712,7 +1710,7 @@ canvas {
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
-	padding: 240px 0;
+	padding: 140px 0;
 	background-attachment: fixed;
 }
 .the-heart-lovely-gallery-section:before {
@@ -1786,8 +1784,8 @@ canvas {
 }
 .the-heart-single-gallery::after {
   color: #96327d;
-  content: "\f004";
-  font-size: 60px;
+  content: "\f00e";
+  font-size: 40px;
   font-weight: 100;
   left: 44%;
   opacity: 0;
