@@ -1471,7 +1471,7 @@ canvas {
 }
 .the-heart-wedding-venue {
 	position: relative;
-	padding: 61px 0 65px 0;
+	padding: 41px 0 45px 0;
 	margin-bottom: 22px;
 }
 .the-heart-wedding-venue:before ,
@@ -1493,7 +1493,7 @@ canvas {
 }
 .the-heart-wedding-venue i {
 	font-size: 1.333em;
-	margin-bottom: 21px;
+	margin-bottom: 11px;
 }
 .the-heart-wedding-venue p {
 	margin: 0;
@@ -1501,10 +1501,10 @@ canvas {
 	font-style: italic;
 }
 .the-heart-wedding-palace-address {
-	margin-top: 44px;
+	margin-top: 24px;
 }
 .the-heart-wedding-palace-address h4 {
-	font-size: 2.667em;
+	font-size: 2.1em;
 	margin: 0;
 	font-weight: 400;
 	margin-bottom: 23px;
@@ -1515,7 +1515,7 @@ canvas {
 	margin: 0;
 	font-size: 1em;
 	font-weight: 400;
-	margin-bottom: 23px;
+	margin-bottom: 13px;
 }
 .the-heart-wedding-palace-address h6 {
 	margin: 0
