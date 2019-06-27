@@ -238,6 +238,7 @@ ul.dropdown li a {
 .the-heart-gallery-item,.the-heart-gallery-grid{
     max-width:100% !important;
     width:100% !important;
+    overflow-x: hidden;
 }
      
  /* dropdown menu*/
