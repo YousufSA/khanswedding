@@ -368,10 +368,10 @@ header.the-heart-menu-and-logo-section.sticky-menu .the-heart-main-meun{
   font-size: .938em;
 }
 .the-heart-wedding-venue-section {
-  padding: 100px 0;
+  padding: 60px 0;
 }
 .the-heart-wdding-venu-content {
-  margin-bottom: 40px;
+  margin: 40px 0px;
 }
 .the-heart-attending-content {
   display: block;
@@ -384,7 +384,10 @@ header.the-heart-menu-and-logo-section.sticky-menu .the-heart-main-meun{
   padding-top: 80px;
 }
 .the-heart-lovely-gallery-section {
-  padding: 100px 0;
+  padding: 60px 0;
+}
+.content-margin-top{
+    margin-top: 40px;
 }
 .the-heart-footer-section {
   padding: 150px 0;
@@ -597,7 +600,7 @@ header.the-heart-menu-and-logo-section.sticky-menu .the-heart-main-meun{
   font-size: 2em;
 }
 .the-heart-wedding-palace-address h4 {
-  font-size: 2em;
+  font-size: 1.8em;
 }
 .the-heart-wdding-venu-content p {
   font-size: 0.838em;
