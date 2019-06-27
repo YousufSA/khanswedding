@@ -236,7 +236,8 @@ ul.dropdown li a {
     max-width: 100%;
 }
 .the-heart-gallery-item,.the-heart-gallery-grid{
-    max-width:100%;
+    max-width:100% !important;
+    width:100% !important;
 }
      
  /* dropdown menu*/
