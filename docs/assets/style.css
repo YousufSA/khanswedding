@@ -103,7 +103,7 @@ h1,h2,h3,h4,h5,h6,a,ul,li{
 	padding: 150px 0 120px 0;
 }
 .content-margin-top {
-	margin-top: 80px;
+	margin-top: 40px;
 }
 .the-heart-spilt-container {
 	width: 50%;
@@ -137,7 +137,7 @@ h1,h2,h3,h4,h5,h6,a,ul,li{
 	text-align: center;
 	position: relative;
 	z-index: 6;
-	margin-bottom: 70px;
+	margin-bottom: 30px;
 }
 .the-heart-section-heading h4 {
 	font-size: 1.333em;
@@ -1642,7 +1642,7 @@ canvas {
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
-	padding: 120px 0;
+	padding: 100px 0;
 	background-attachment: fixed;
 }
 .the-heart-lovely-gallery-section:before {
