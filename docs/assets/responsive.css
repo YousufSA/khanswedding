@@ -371,8 +371,11 @@ header.the-heart-menu-and-logo-section.sticky-menu .the-heart-main-meun{
   padding: 60px 0;
 }
 .the-heart-wdding-venu-content {
-  margin: 40px 0px;
+  margin: 20px 0px;
 }
+.the-heart-section-heading{
+    margin-bottom: 40px;
+}     
 .the-heart-attending-content {
   display: block;
   height: 550px !important;
@@ -610,6 +613,7 @@ header.the-heart-menu-and-logo-section.sticky-menu .the-heart-main-meun{
 }
 .the-heart-you-are-attending-section.section-padding {
   text-align: center;
+  padding: 50px 0px 0px;
 }
 .the-heart-attending-content h2 {
   font-size: 1.5em;
