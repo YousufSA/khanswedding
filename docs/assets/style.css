@@ -200,6 +200,7 @@ h1,h2,h3,h4,h5,h6,a,ul,li{
 /* Body Background List */
 body.the-heart-default-body {
 	background-image: url(https://yousufsa.github.io/khanswedding/docs/assets/img/the-heart-body-bg.png);
+    background-color: #fdf4fe;
 }
 body.the-heart-journal-body-bg {
 	background-image: url(https://yousufsa.github.io/khanswedding/docs/assets/img/journal-body-bg.png);
