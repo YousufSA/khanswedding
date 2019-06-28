@@ -1875,6 +1875,7 @@ canvas {
 	font-size: 1em;
 	font-style: italic;
 	font-weight: 400;
+    margin-bottom: 25px;
 }
 .inner-footer .the-heart-footer-content h5 {
 	font-size: 1.333em;
