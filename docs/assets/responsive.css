@@ -224,6 +224,9 @@ ul.dropdown li a {
      #loded{
          height: 450px !important;
      }
+     .the-heart-intruduction-content-txt{
+         height: 200px !important;
+     }
 /*Counter*/
 .dash .digit {
   font-size: 2em;
@@ -347,10 +350,10 @@ header.the-heart-menu-and-logo-section.sticky-menu .the-heart-main-meun{
   font-size: 2em;
 }
 .the-heart-single-introduction{
-  margin-bottom: 50px;
+    margin: 20px 0px;
 }
 .the-heart-introduction-section.section-padding {
-  padding: 50px 0 0;
+  padding: 0px;
 }
 .the-heart-memoragble-days-section.section-padding {
   padding: 50px 0 0;
