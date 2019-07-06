@@ -227,6 +227,9 @@ ul.dropdown li a {
      .the-heart-intruduction-content-txt{
          height: 200px !important;
      }
+   .the-heart-paper-effect-bg:before, .the-heart-paper-effect-bg:after{
+         height:50px;
+     }
 /*Counter*/
 .dash .digit {
   font-size: 2em;
