@@ -572,8 +572,8 @@ header.the-heart-menu-and-logo-section.sticky-menu .the-heart-main-meun{
   font-size: 1em;
 }
 .the-heart-timer {
-  height: 80px;
-  width: 80px;
+  height: 70px;
+  width: 70px;
 }
 .the-heart-timer-single::before {
   display: none;
